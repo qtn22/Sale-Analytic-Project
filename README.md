@@ -30,32 +30,14 @@ Developed five interactive Power BI dashboards covering:
 - Customer
 - Logistic and Return
 - Marketing
-![Executive Dashboard](images/EXEC.png)
 
-<details>
-<summary><b>Product Performance Dashboard</b></summary>
+![Executive Dashboard](images/EXEC.png)
 
 ![Product Dashboard](images/Product.png)
 
-</details>
-
-<details>
-<summary><b>Customer Intelligence Dashboard</b></summary>
-
 ![Customer Dashboard](images/Customer.png)
-
-</details>
-
-<details>
-<summary><b>Marketing Performance Dashboard</b></summary>
 
 ![Marketing Dashboard](images/Marketing.png)
 
-</details>
-
-<details>
-<summary><b>Logistics & Returns Dashboard</b></summary>
-
 ![Logistics Dashboard](images/Logistic&Return.png)
 
-</details>
