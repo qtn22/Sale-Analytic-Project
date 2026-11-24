@@ -12,4 +12,4 @@ The dataset contains approximately **561,860 records** across four main tables, 
 | `order_items` | 397,569 | Product-level sales, quantities, and discounts |
 | `products` | 1,175 | Product details, categories, brands, and ratings |
 ## Database Schema
-![Database Schema](images/database_schema.png)
+![Database Schema](images/data_schema.png)
