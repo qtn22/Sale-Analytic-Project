@@ -50,6 +50,7 @@ Power BI Dashboard Images
 
 ## Data Quality & Limitations
 The analysis identified approximately 11,226 orders with quantity and revenue discrepancies between the Sales and Order Items tables, with a combined revenue difference of approximately $15.26 million.
+
 Approaches to Minimize the Impact of Discrepancies::
 - Order-level financial performance is primarily analyzed using the Sales table.
 - Product-level performance is analyzed using the Order Items table.
