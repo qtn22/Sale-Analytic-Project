@@ -54,4 +54,8 @@ Approaches to Minimize the Impact of Discrepancies::
 - Order-level financial performance is primarily analyzed using the Sales table.
 - Product-level performance is analyzed using the Order Items table.
 ## Conclusion
-This project provides data-driven insights into e-commerce sales performance, customer behavior, product profitability, and operational efficiency. The findings highlight opportunities to improve marketing strategies, optimize inventory management, reduce delivery delays, and increase overall profitability. Beyond descriptive analytics, this project also establishes a foundation for predictive modeling. The insights and identified patterns can support the development of machine learning models to forecast sales demand, predict customer purchasing behavior and identify products at risk of returns. By combining SQL analysis with Power BI visualization, this project demonstrates how historical business data can support data-driven decision-making while laying the foundation for the next step: predictive analytics and machine learning models.
+This project provides data-driven insights into e-commerce sales performance, customer behavior, product profitability, and operational efficiency. The findings highlight opportunities to improve marketing strategies, optimize inventory management, reduce delivery delays, and increase overall profitability.
+
+Beyond descriptive analytics, this project also establishes a foundation for predictive modeling. The insights and identified patterns can support the development of machine learning models to forecast sales demand, predict customer purchasing behavior and identify products at risk of returns. 
+
+By combining SQL analysis with Power BI visualization, this project demonstrates how historical business data can support data-driven decision-making while laying the foundation for the next step: predictive analytics and machine learning models.
