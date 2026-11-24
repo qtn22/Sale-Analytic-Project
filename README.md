@@ -4,8 +4,8 @@ This project analyzes e-commerce sales data from 2021 to 2025, focusing on data 
 ## Dataset Overview
 
 The dataset contains approximately **561,860 records** across four main tables, covering e-commerce transactions from **2021 to 2025** across seven countries.
-The dataset used in this project was obtained from Kaggle:
 
+The dataset used in this project was obtained from Kaggle:
 [E-Commerce Sales and Customer Analytics Dataset](https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics)
 | Table | Records | Description |
 |---|---:|---|
