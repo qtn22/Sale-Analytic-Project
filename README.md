@@ -1,0 +1,3 @@
+# E-Commerce Sales Analytics
+## Project Overview
+This project analyzes e-commerce sales data from 2021 to 2025, focusing on data quality validation, customer behavior, sales performance, product profitability, marketing effectiveness, shipping operations, and geographic trends. The goal is to transform raw transactional data into actionable business insights using Microsoft Azure SQL Database, SQL, and Power BI.
